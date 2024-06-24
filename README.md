@@ -35,6 +35,8 @@ The primary objective of the us_sales project was to analyze and interpret sales
 > 18.	Market_Size: The size of the market (e.g., Small Market, Major Market).
 
 
+![Uploading image.png…]()
+
 ![image](https://github.com/harmeetk136/us_Sales/assets/173656309/987a1fd6-e69b-4211-b791-64070844ae5c)
 
 
