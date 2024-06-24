@@ -35,6 +35,10 @@ The primary objective of the us_sales project was to analyze and interpret sales
 > 18.	Market_Size: The size of the market (e.g., Small Market, Major Market).
 
 
+![image](https://github.com/harmeetk136/us_Sales/assets/173656309/1ac8471c-427e-46a6-a583-209e8f000444)
+
+
+
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
 
    [dill]: <https://github.com/joemccann/dillinger>
