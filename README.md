@@ -37,10 +37,6 @@ The primary objective of the us_sales project was to analyze and interpret sales
 ![image](https://github.com/harmeetk136/us_Sales/assets/173656309/b2a3a92c-ea33-480d-b1ea-a5b38146a866)
 
 
-![image](https://github.com/harmeetk136/us_Sales/assets/173656309/987a1fd6-e69b-4211-b791-64070844ae5c)
-
-
-
 
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
 
