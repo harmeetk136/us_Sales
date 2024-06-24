@@ -1,4 +1,5 @@
 # us_sales SQL PROJECT 
+<body>
 # OBJECTIVE
 The primary objective of the us_sales project was to analyze and interpret sales data to derive actionable insights for improving sales strategies, optimizing marketing efforts, and maximizing profit margins. This involved comprehensive data analysis to understand sales patterns, costs, and profitability across different products and time periods.
 # KEY RESPONSIBLITIES
@@ -33,7 +34,7 @@ The primary objective of the us_sales project was to analyze and interpret sales
       Market: Market region
       Market_Size: Size of the market (e.g., Small, Medium, Large)
 </a>
-
+</body>
 
 
 
