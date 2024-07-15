@@ -1,5 +1,4 @@
-# SQL PROJECT
-## US_SALES
+## US_SALES SQL PROJECT
 
 ## OBJECTIVE
 The primary objective of the us_sales project was to analyze and interpret sales data to derive actionable insights for improving sales strategies, optimizing marketing efforts, and maximizing profit margins. This involved comprehensive data analysis to understand sales patterns, costs, and profitability across different products and time periods.
