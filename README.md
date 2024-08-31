@@ -14,7 +14,7 @@ The primary objective of the us_sales project was to analyze and interpret sales
 #### OVERALL STRUCTURE
    Total Rows: The table has 4248 rows.
   #### Schema:
-> 1.    SI_NO: This is a serial number or unique identifier for each record in the table.
+> 1.  SI_NO: This is a serial number or unique identifier for each record in the table.
 > 2.	Date: The date when the sales transaction occurred.
 > 3.	Product_Type: This specifies the type of product, such as Coffee, Espresso, Tea etc.
 > 4.	Product: The specific name or variety of the product sold.
